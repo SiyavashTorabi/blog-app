@@ -1,1 +1,1 @@
-# github-group-practice
+# blog-app
