@@ -1,0 +1,7 @@
+/// making a req in postman:
+using the drop down we can use get/post/put/delete in order to add/get/update/and delete data
+ in the body we are able to add data and added to our api url
+
+
+ /// put / post req can only be made if we change data in the body using postman (row, json) 
+ /// delete req does not need a body can simply can be mad just like get req  just make sure to add the idd of the post targeted at the end of url 
